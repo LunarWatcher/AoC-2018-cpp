@@ -1,0 +1,6 @@
+build/
+res/
+.settings/
+*.exe
+.project
+.cproject
